@@ -1,0 +1,38 @@
+
+body {
+    background-color: #FFFFFF;
+}
+
+#holder {
+    top:0%;
+    z-index: 100;
+    margin-left:2%;
+    margin-right:20%;
+    margin-bottom:5%;
+    margin-top:2%;
+    padding:0px;
+    width:60%;
+    height:80%;
+    min-height:350px;
+    min-width:430px;
+    position:relative;
+    background-color:#CCCCCC;
+    resize:both;
+}
+
+.divgridCanvas {
+    top:2%;
+    z-index: 100;
+    margin-left:10px;
+    margin-right:25px;
+    margin-bottom:30px;
+    margin-top:10px;
+    padding:0px;
+    width:96%;
+    height:96%;
+    min-height:300px;
+    min-width:360px;
+    position:relative;
+    background-color:#000000;
+}
+
