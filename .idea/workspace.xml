@@ -2,61 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a14cbf1a-ef31-44be-8da8-717a9a231b1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/balloons.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/bolt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/carpet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/hourglass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/ice.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/land.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/sea.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/statue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/sunset.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/tiles.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/town.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/tropical.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/village.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/wall.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/waves.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/window.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/s/x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sa_demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sa_demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/convertallindir.bash" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/prepsvgforjs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/backbone-1-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/backbone-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/backbone.localStorage-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-2.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-2.0.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/json2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kinetic-v4.5.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kinetic-v4.5.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lodash.underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lodash.underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sa_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saBottomButton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saButton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saDemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saDemoView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saGeneral.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saGridView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saImage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saIntersect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saItemView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saItems.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saLayerControls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/saLayers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sa_demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -345,12 +291,18 @@
       <created>1370007198154</created>
       <updated>1370007198154</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial files">
+      <created>1370957060378</created>
+      <updated>1370957060378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="127" y="104" width="1409" height="896" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -405,7 +357,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial files" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -418,6 +370,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="initial files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
